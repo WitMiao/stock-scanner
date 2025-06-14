@@ -116,11 +116,7 @@ SOFTWARE.
 
 ### 特别鸣谢
 
-[![image](<!-- 代码参考，需要自行调整height和scale数值 -->
-<iframe frameborder=0
-src="https://support.nodeget.com/page/promotion?id=line2188"
-style="border-radius:8px; height: 270px;
-transform: scale(1.0); transform-origin: top left;"></iframe>](https://yxvm.com/)
+[![image]("https://support.nodeget.com/page/promotion?id=line2188"](https://yxvm.com/)
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
 ## 👨‍💻 Author
 
