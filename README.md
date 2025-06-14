@@ -116,7 +116,8 @@ SOFTWARE.
 
 ### 特别鸣谢
 
-![image](https://support.nodeget.com/page/promotion?id=line2188)(https://yxvm.com/)
+![image](https://support.nodeget.com/page/promotion?id=line2188)
+(https://yxvm.com/)
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
 ## 👨‍💻 Author
 
