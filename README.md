@@ -116,7 +116,6 @@ SOFTWARE.
 
 ### 特别鸣谢
 
-akshare
 [![image](iframe组件截图图片链接)](https://yxvm.com/)
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
 ## 👨‍💻 Author
