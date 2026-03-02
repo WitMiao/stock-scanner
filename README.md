@@ -411,7 +411,7 @@ Created by [linzefeng]
 
 **如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！**
 
-[📧 Issue反馈](../../issues) | [🚀 功能建议](../../discussions) | [📖 更多文档](../../wiki) | ![Docker Image](https://ghcr-badge.deta.dev/dr-lin-eng/stock-scanner/stock-webapp/latest_tag?trim=major\&label=最新版本)
+[📧 Issue反馈](../../issues) | [🚀 功能建议](../../discussions) | [📖 更多文档](../../wiki) | ![Docker Image](https://ghcr-badge.deta.dev/witmiao/stock-scanner/stock-webapp/latest_tag?trim=major&label=最新版本)
 
 
 </div>
